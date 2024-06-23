@@ -1,7 +1,7 @@
 body {
 	background-color: #c84c24;
-	height: 100vh;
-	width: 100vw;
+	height: 100dvh;
+	width: 100dvw;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -10,11 +10,11 @@ body {
 }
 
 #main {
-	width: 95vw;
-	height: 95vh;
+	width: 95dvw;
+	height: 95dvh;
 	background-color: white;
 	border: 0px solid white;
-	border-radius: 10vh;
+	border-radius: 10svh;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
@@ -32,7 +32,7 @@ nav {
 }
 
 a {
-	width: 50vw;
+	width: 50dvw;
 	text-align: center;
 	border: 5px solid #c84c24;
 	border-radius: 20px;
